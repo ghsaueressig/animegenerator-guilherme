@@ -1,0 +1,15 @@
+ion-app {
+    background-color: white;
+}
+
+ion-text {
+    color: black;
+    font-family: 'Times New Roman';
+}
+
+.left-align {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column;
+}
